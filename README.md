@@ -54,6 +54,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-If you have any questions or would like to get in touch, please feel free to reach out via the Contact section on the website or send an email to [youremail@example.com](mailto:rishavraushan1804@gmail.com).
+If you have any questions or would like to get in touch, please feel free to reach out via the Contact section on the website or send an email to [rishavraushan1804@gmail.com](mailto:rishavraushan1804@gmail.com).
 
 Thank you for visiting my portfolio website!
