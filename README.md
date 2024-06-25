@@ -28,7 +28,7 @@ The Contact section contains information on how to get in touch with me. This in
 
 ## Getting Started
 
-To view the portfolio website, simply visit [yourwebsite.com](https://yourwebsite.com) or download the source code from this repository and open `index.html` in your browser.
+To view the portfolio website, simply visit [Portfolio](https://rishav-raushan.github.io/Portfolio/) or download the source code from this repository and open `index.html` in your browser.
 
 ## Installation
 
